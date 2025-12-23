@@ -11,4 +11,4 @@ spec:
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: production
-          image: 310688446727.dkr.ecr.ap-northeast-2.amazonaws.com/backend-app:cda2795
+          image: 310688446727.dkr.ecr.ap-northeast-2.amazonaws.com/backend-app:ca15834
